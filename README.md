@@ -21,10 +21,12 @@ This:
  
  green lime
 
+
 Becomes this:
 
 
  red cherry apple stawberry cherry
  green apple pear lime
+ 
  
  >> Note that it does not remove duplicated lines in the input
