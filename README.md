@@ -2,7 +2,7 @@
 
 This script picks a tabular list of duplicated entries at the first column and converts it into single rows, multicolumn entries
 
-This:
+>This:
 
 
  red cherry
@@ -22,12 +22,13 @@ This:
  green lime
 
 
-Becomes this:
+>Becomes this:
 
 
  red cherry apple stawberry cherry
  
  green apple pear lime
+ 
  
  
  >> Note that it does not remove duplicated lines in the input
